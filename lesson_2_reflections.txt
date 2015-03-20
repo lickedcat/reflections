@@ -1,19 +1,40 @@
-Q1 What happens when you initialize a repository? Why do you need to do it?
+Q1 What happens when you initialize a repository? 
+Why do you need to do it?
 
-It setups up the meta-data structures to track changes to the files in the respository.
+It setups up the meta-data structures to track 
+changes to the files in the respository.
 
-Q2 How is the staging area different from the working directory and the repository? What value do you think it offers?
+Q2 How is the staging area different from the 
+working directory and the repository? 
+What value do you think it offers?
 
-The staging area only has the files that have changed and are ready for commiting. The value it offers is that it reduces the amount of files that need to be synced
+The staging area only has the files that have 
+changed and are ready for commiting. 
+The value it offers is that it reduces the 
+amount of files that need to be synced.
 
-Q3 How can you use the staging area to make sure you have one commit per logical change?
+Q3 How can you use the staging area to make sure 
+you have one commit per logical change?
 
-The staging area can be used to visually see which files have been changed and from that we can logically group the changed files into their logical separate commits
+The staging area can be used to visually see which 
+files have been changed and from that we can 
+logically group the changed files into their 
+logical separate commits
 
-Q4 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Q4 What are some situations when branches would be 
+helpful in keeping your history organized? 
+How would branches help?
 
-A situation where branches would be helpful is if you had code with certain information in it, but then your boss wanted to present it to different audiences and the only thing you had to change is the title for each new audience but you didn't want to create a new file and rename it for each presentation, branchign would have been helpful.
+A situation where branches would be helpful is if you 
+had code with certain information in it, but then your 
+boss wanted to present it to different audiences and 
+the only thing you had to change is the title for each 
+new audience but you didn't want to create a new file 
+and rename it for each presentation, branchign would 
+have been helpful.
 
-Q5 How do the diagrams help you visualize the branch structure?
+Q5 How do the diagrams help you visualize the branch 
+structure?
 
-Diagrams help by visualizing the different branches and the child - parent relationship.
+Diagrams help by visualizing the different branches 
+and the child - parent relationship.
